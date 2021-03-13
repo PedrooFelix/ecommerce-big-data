@@ -1,5 +1,8 @@
 # ecommerce-big-data
 
+![](gcp.gif)
+
+
 #tools used 
 python
 
