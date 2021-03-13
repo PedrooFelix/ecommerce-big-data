@@ -1,6 +1,6 @@
 # ecommerce-big-data
 
-![](gcp.gif)
+![](gcpd.gif)
 
 
 #tools used 
