@@ -42,6 +42,20 @@ Thanks to REES46 Marketing Platform for this dataset.
 python
 ai notebook in GCP
 
+# Libraries:
+
+```python
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+pd.options.display.float_format = "{:,.2f}".format
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import datetime as dt
+import warnings
+warnings.simplefilter("ignore")
+```
+
 # PRESENTATION:
 
 https://prezi.com/view/hDBtuNflfYB1WtaBNniS/
