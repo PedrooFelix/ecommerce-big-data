@@ -23,20 +23,19 @@ user_id | permanent user ID.
 ## Event types
 Events can be:
 
-> *view* - a user viewed a product
-> *cart* - a user added a product to shopping cart
-> *remove_from_cart* - a user removed a product from shopping cart
-> *purchase* - a user purchased a product
-> *Multiple purchases per session*
-> *A session can have multiple purchase events. It's ok, because it's a single order.*
+> * *view* - a user viewed a product
+> * *cart* - a user added a product to shopping cart
+> * *remove_from_cart* - a user removed a product from shopping cart
+> * *purchase* - a user purchased a product
+> * *Multiple purchases per session*
+> * *A session can have multiple purchase events. It's ok, because it's a single order.*
 
 ## Many thanks
 Thanks to REES46 Marketing Platform for this dataset.
 
-#tools used 
+# tools used 
 python
-
-# in gcp
+ai notebook in GCP
 
 # PRESENTATION:
 
