@@ -18,7 +18,7 @@ brand | Downcased string of brand name. Can be missed.
 price | Float price of a product. 
 user_id | permanent user ID.
 
-* user_session 	Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause. *
+*user_session 	Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause.*
 
 ## Event types
 Events can be:
