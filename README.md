@@ -55,6 +55,7 @@ import datetime as dt
 import warnings
 warnings.simplefilter("ignore")
 ```
+# huge thanks to the steps followed, also good doing the notes : @adilemre
 
 # PRESENTATION:
 
