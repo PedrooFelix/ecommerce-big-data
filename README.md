@@ -20,14 +20,14 @@ user_id | permanent user ID.
 
 * user_session**	Temporary user's session ID. Same for each user's session. Is changed every time user come back to online store from a long pause. *
 
-##Event types
+## Event types
 Events can be:
 
-> * view * - a user viewed a product
-> * cart * - a user added a product to shopping cart
-> * remove_from_cart * - a user removed a product from shopping cart
-> * purchase * - a user purchased a product
-> * Multiple purchases per session *
+> *view* - a user viewed a product
+> *cart* - a user added a product to shopping cart
+> *remove_from_cart* - a user removed a product from shopping cart
+> *purchase* - a user purchased a product
+> *Multiple purchases per session*
 > *A session can have multiple purchase events. It's ok, because it's a single order.*
 
 ## Many thanks
