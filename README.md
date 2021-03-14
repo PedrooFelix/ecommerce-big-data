@@ -38,7 +38,7 @@ Events can be:
 ## Many thanks
 Thanks to REES46 Marketing Platform for this dataset.
 
-# tools used 
+# Tools:
 python
 ai notebook in GCP
 
