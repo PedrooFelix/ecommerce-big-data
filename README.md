@@ -60,4 +60,4 @@ warnings.simplefilter("ignore")
 # PRESENTATION IN PREZI:
 
 https://prezi.com/view/hDBtuNflfYB1WtaBNniS/
-https://youtu.be/PCnNCXMYDNg
+https://www.youtube.com/watch?v=PCnNCXMYDNg&lc=UgxCSzwC7YvDi7rQQNp4AaABAg
